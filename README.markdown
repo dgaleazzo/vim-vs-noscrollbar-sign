@@ -1,4 +1,4 @@
-# VisualStudioNoScrollSign
+# VIM Visual Studio noscrollbar Sign
 
 ![Noscrollbar demo](https://dgaleazzo.github.io/vim-vs-noscrollbar-sign/noscrollbar.gif)
 
