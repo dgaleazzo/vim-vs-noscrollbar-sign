@@ -10,6 +10,7 @@ kind of plugins that use signs such as:
 - syntastic
 - ale
 - vim-signify
+
 etc..
 
 ## Installation
